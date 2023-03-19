@@ -36,7 +36,7 @@ const AllProperties = () => {
     setSorter([{ field, order: currentPrice === "asc" ? "desc" : "asc" }]);
   };
 
-  const currrentFilterValues = useMemo(() => {
+  const currentFilterValues = useMemo(() => {
     const logicalFilters = filters.flatMap((item) =>
       "field" in item ? item : []
     );
@@ -85,7 +85,7 @@ const AllProperties = () => {
                 variant="outlined"
                 color="info"
                 placeholder="Search by title"
-                value={currrentFilterValues.title}
+                value={currentFilterValues.title}
                 onChange={(e) => {
                   setFilters([
                     {
@@ -105,7 +105,7 @@ const AllProperties = () => {
                 required
                 inputProps={{ "aria-label": "Without label" }}
                 defaultValue=""
-                value={currrentFilterValues.propertyType}
+                value={currentFilterValues.propertyType}
                 onChange={(e) => {
                   setFilters(
                     [
