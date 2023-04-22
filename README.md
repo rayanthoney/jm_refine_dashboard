@@ -35,3 +35,37 @@
   - [GitHub Gist Code:](https://gist.github.com/adrianhajdin/7d0eea1cbab4ab21a69dc8c2faf9b831)
 
 <br>
+
+## Technologies Used:
+
+Here's where you can go to town on how you actually built this thing. Write as much as you can here, it's totally fine if it's not too much just make sure you write _something_. If you don't have too much experience on your resume working on the front end that's totally fine. This is where you can really show off your passion and make up for that ten fold.
+
+<br>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,nodejs,react,vite,threejs,tailwind" />
+  </a>
+</p>
+
+<br>
+<br>
+
+```terminal
+ > npx create-create-app ./
+```
+
+## Install Tailwind CSS
+
+> Install tailwindcss and its peer dependencies, then generate your tailwind.config.js and postcss.config.js files.
+
+```terminal
+ > npm install -D tailwindcss
+ > npx tailwindcss init -p
+```
+
+## Installing Your Packages
+
+```terminal
+  > npm install --legacy-peer-deps
+```
