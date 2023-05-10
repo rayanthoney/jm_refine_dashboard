@@ -30,7 +30,7 @@
 <br>
 
 - [Build and Deploy a React Admin Dashboard App With Theming, Tables, Charts, Calendar, Kanban and More](https://youtu.be/jx5hdo50a2M)
-  - [GitHub Code (give it a star ⭐):](https://github.com/adrianhajdin/project_syncfusion_dashboard)
+  - [GitHub Code (give it a star ⭐) :](https://github.com/adrianhajdin/project_syncfusion_dashboard)
   - [Assets, Components, Public folders:](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqblR4cWRYV2p2S0loVl90czFQU1F2OGZ1M28yZ3xBQ3Jtc0tsQ21taDVadVpBVnFIMzRWaFhtVHczVHZEWlBjajNQdzM5S3JWR292ODFsbTl1MXFPSlJnTXlQcXJpSDBpMk44endDT1poQzY0VllmMFdkOXBlRl94dDdSeVVTYmhNM2Q0UFdIRTFMWnU5bTd3WFIzRQ&q=https%3A%2F%2Fminhaskamal.github.io%2FDownGit%2F%23%2Fhome%3Furl%3Dhttps%3A%2F%2Fgithub.com%2Fadrianhajdin%2Fproject_syncfusion_dashboard%2Ftree%2Fmain%2Fsrc%2Fdata&v=jx5hdo50a2M)
   - [GitHub Gist Code:](https://gist.github.com/adrianhajdin/7d0eea1cbab4ab21a69dc8c2faf9b831)
 
